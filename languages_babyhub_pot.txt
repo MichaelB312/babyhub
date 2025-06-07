@@ -1511,3 +1511,568 @@ msgstr ""
 #: single-pregnancy_week.php:363
 msgid "קהילה"
 msgstr ""
+
+#: template-parts/tools/ovulation-calculator.php:15
+msgid "חישוב ביוץ ותקופת פוריות"
+msgstr ""
+
+#: template-parts/tools/ovulation-calculator.php:17
+msgid "הזיני את הפרטים הבאים כדי לחשב את ימי הפוריות שלך ותאריך הביוץ המשוער"
+msgstr ""
+
+#: template-parts/tools/ovulation-calculator.php:24
+msgid "תאריך הווסת האחרונה"
+msgstr ""
+
+#: template-parts/tools/ovulation-calculator.php:43
+msgid "אורך המחזור החודשי"
+msgstr ""
+
+#: template-parts/tools/ovulation-calculator.php:72
+msgid "חשב ביוץ ופוריות"
+msgstr ""
+
+#: template-parts/tools/due-date-calculator.php:15
+msgid "חישוב תאריך לידה משוער"
+msgstr ""
+
+#: template-parts/tools/due-date-calculator.php:95
+msgid "חשב תאריך לידה"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:15
+msgid "ניחוש מין התינוק לפי השיטה הסינית"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:104
+msgid "נחש את מין התינוק"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:15
+msgid "תוכנית לידה מותאמת אישית"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:332
+msgid "צרי תוכנית לידה"
+msgstr ""
+
+#: main.js:45
+msgid "טוען..."
+msgstr ""
+
+#: main.js:46
+msgid "שגיאה בטעינת הנתונים"
+msgstr ""
+
+#: main.js:47
+msgid "הפעולה בוצעה בהצלחה"
+msgstr ""
+
+#: main.js:67
+msgid "החישוב הושלם בהצלחה"
+msgstr ""
+
+#: main.js:70
+msgid "נתונים לא תקינים"
+msgstr ""
+
+#: main.js:82
+msgid "תאריך הלידה המשוער חושב בהצלחה"
+msgstr ""
+
+#: main.js:95
+msgid "בן"
+msgstr ""
+
+#: main.js:95
+msgid "בת"
+msgstr ""
+
+#: main.js:115
+msgid "התחזית: %s"
+msgstr ""
+
+#: main.js:125
+msgid "זוהי תחזית מסורתית בלבד ואינה מבוססת על בסיס מדעי"
+msgstr ""
+
+#: main.js:145
+msgid "תת משקל"
+msgstr ""
+
+#: main.js:148
+msgid "משקל תקין"
+msgstr ""
+
+#: main.js:151
+msgid "עודף משקל"
+msgstr ""
+
+#: main.js:154
+msgid "השמנה"
+msgstr ""
+
+#: main.js:165
+msgid "מתחת לטווח המומלץ"
+msgstr ""
+
+#: main.js:167
+msgid "מעל הטווח המומלץ"
+msgstr ""
+
+#: main.js:169
+msgid "בטווח המומלץ"
+msgstr ""
+
+#: main.js:245
+msgid "לא נמצאו שמות מתאימים"
+msgstr ""
+
+#: main.js:265
+msgid "אלו הן הצעות בלבד. בחרו שם שמדבר אליכם!"
+msgstr ""
+
+#: main.js:310
+msgid "הדפס תוכנית"
+msgstr ""
+
+#: main.js:315
+msgid "שמור כ-PDF"
+msgstr ""
+
+#: main.js:440
+msgid "הזנה:"
+msgstr ""
+
+#: main.js:445
+msgid "חיתולים:"
+msgstr ""
+
+#: main.js:450
+msgid "ביגוד:"
+msgstr ""
+
+#: main.js:455
+msgid "ציוד:"
+msgstr ""
+
+#: main.js:460
+msgid "בריאות:"
+msgstr ""
+
+#: main.js:465
+msgid "טיפוח:"
+msgstr ""
+
+#: main.js:475
+msgid "סך הכל חודשי:"
+msgstr ""
+
+#: main.js:480
+msgid "סך הכל שנתי:"
+msgstr ""
+
+#: main.js:485
+msgid "צפי ל-3 שנים:"
+msgstr ""
+
+#: main.js:520
+msgid "מזל טלה"
+msgstr ""
+
+#: main.js:520
+msgid "אנרגטי, נחוש ומוביל טבעי"
+msgstr ""
+
+#: main.js:521
+msgid "מזל שור"
+msgstr ""
+
+#: main.js:521
+msgid "יציב, מעשי ואמין"
+msgstr ""
+
+#: main.js:522
+msgid "מזל תאומים"
+msgstr ""
+
+#: main.js:522
+msgid "חברותי, סקרן ומתאים"
+msgstr ""
+
+#: main.js:523
+msgid "מזל סרטן"
+msgstr ""
+
+#: main.js:523
+msgid "רגשי, מטפח ומגן"
+msgstr ""
+
+#: main.js:524
+msgid "מזל אריה"
+msgstr ""
+
+#: main.js:524
+msgid "בטוח, יצירתי ונדיב"
+msgstr ""
+
+#: main.js:525
+msgid "מזל בתולה"
+msgstr ""
+
+#: main.js:525
+msgid "מדויק, מסוגן ועובד קשה"
+msgstr ""
+
+#: main.js:526
+msgid "מזל מאזניים"
+msgstr ""
+
+#: main.js:526
+msgid "מאוזן, חברותי ומחפש הרמוניה"
+msgstr ""
+
+#: main.js:527
+msgid "מזל עקרב"
+msgstr ""
+
+#: main.js:527
+msgid "נחוש, אינטנסיבי ומסתורי"
+msgstr ""
+
+#: main.js:528
+msgid "מזל קשת"
+msgstr ""
+
+#: main.js:528
+msgid "הרפתקן, אופטימי וחופשי"
+msgstr ""
+
+#: main.js:529
+msgid "מזל גדי"
+msgstr ""
+
+#: main.js:529
+msgid "אחראי, שאפתן ומעשי"
+msgstr ""
+
+#: main.js:530
+msgid "מזל דלי"
+msgstr ""
+
+#: main.js:530
+msgid "מקורי, עצמאי וחדשני"
+msgstr ""
+
+#: main.js:531
+msgid "מזל דגים"
+msgstr ""
+
+#: main.js:531
+msgid "רגיש, אמפטי ויצירתי"
+msgstr ""
+
+#: main.js:560
+msgid "מזל התינוק שלך"
+msgstr ""
+
+#: main.js:570
+msgid "תכונות אופי מובהקות:"
+msgstr ""
+
+#: main.js:571
+msgid "התינוק שלך נולד תחת %s, מה שעשוי לתת לו תכונות מיוחדות שיתפתחו עם הזמן."
+msgstr ""
+
+#: main.js:595
+msgid "חיזוי גובה התינוק"
+msgstr ""
+
+#: main.js:600
+msgid "גובה צפוי: %d ס\"מ"
+msgstr ""
+
+#: main.js:601
+msgid "טווח: %d-%d ס\"מ"
+msgstr ""
+
+#: main.js:605
+msgid "זהו חישוב משוער בלבד המבוסס על גובה ההורים. גורמים רבים משפיעים על הגובה הסופי."
+msgstr ""
+
+#: main.js:625
+msgid "תוצאות חישוב ביוץ"
+msgstr ""
+
+#: main.js:630
+msgid "תאריך ביוץ משוער:"
+msgstr ""
+
+#: main.js:635
+msgid "תחילת תקופת פוריות:"
+msgstr ""
+
+#: main.js:640
+msgid "סוף תקופת פוריות:"
+msgstr ""
+
+#: main.js:645
+msgid "זכרי:"
+msgstr ""
+
+#: main.js:645
+msgid "תקופת הפוריות היא 6 ימים - 5 ימים לפני הביוץ ויום הביוץ עצמו."
+msgstr ""
+
+#: main.js:655
+msgid "תוצאות חישוב תאריך לידה"
+msgstr ""
+
+#: main.js:660
+msgid "תאריך לידה משוער:"
+msgstr ""
+
+#: main.js:665
+msgid "שבועות הריון נוכחיים:"
+msgstr ""
+
+#: main.js:665
+msgid "שבועות"
+msgstr ""
+
+#: main.js:670
+msgid "זהו תאריך משוער בלבד. רק 5% מהתינוקות נולדים בתאריך המדויק."
+msgstr ""
+
+#: main.js:695
+msgid "שדה זה הוא חובה"
+msgstr ""
+
+#: main.js:700
+msgid "כתובת אימייל לא תקינה"
+msgstr ""
+
+#: main.js:705
+msgid "תאריך לא תקין"
+msgstr ""
+
+#: main.js:710
+msgid "ערך מספרי לא תקין"
+msgstr ""
+
+#: main.js:775
+msgid "ינואר"
+msgstr ""
+
+#: main.js:775
+msgid "פברואר"
+msgstr ""
+
+#: main.js:775
+msgid "מרץ"
+msgstr ""
+
+#: main.js:775
+msgid "אפריל"
+msgstr ""
+
+#: main.js:775
+msgid "מאי"
+msgstr ""
+
+#: main.js:775
+msgid "יוני"
+msgstr ""
+
+#: main.js:776
+msgid "יולי"
+msgstr ""
+
+#: main.js:776
+msgid "אוגוסט"
+msgstr ""
+
+#: main.js:776
+msgid "ספטמבר"
+msgstr ""
+
+#: main.js:776
+msgid "אוקטובר"
+msgstr ""
+
+#: main.js:776
+msgid "נובמבר"
+msgstr ""
+
+#: main.js:776
+msgid "דצמבר"
+msgstr ""
+
+#: main.js:845
+msgid "תוכנית לידה"
+msgstr ""
+
+#: main.js:860
+msgid "פונקציונליות שמירה כ-PDF תהיה זמינה בקרוב"
+msgstr ""
+
+# General error messages
+msgid "שגיאה"
+msgstr ""
+
+msgid "הצלחה"
+msgstr ""
+
+msgid "אישור"
+msgstr ""
+
+msgid "ביטול"
+msgstr ""
+
+msgid "שמירה"
+msgstr ""
+
+msgid "מחיקה"
+msgstr ""
+
+msgid "עריכה"
+msgstr ""
+
+msgid "הוספה"
+msgstr ""
+
+msgid "סגירה"
+msgstr ""
+
+msgid "פתיחה"
+msgstr ""
+
+# Form validation
+msgid "אנא מלא שדה זה"
+msgstr ""
+
+msgid "הזן ערך תקין"
+msgstr ""
+
+msgid "הזן מספר תקין"
+msgstr ""
+
+msgid "בחר אפשרות"
+msgstr ""
+
+# Date and time
+msgid "היום"
+msgstr ""
+
+msgid "אתמול"
+msgstr ""
+
+msgid "מחר"
+msgstr ""
+
+msgid "השבוע"
+msgstr ""
+
+msgid "החודש"
+msgstr ""
+
+msgid "השנה"
+msgstr ""
+
+msgid "לפני %s"
+msgstr ""
+
+msgid "בעוד %s"
+msgstr ""
+
+# Numbers and measurements
+msgid "ק\"ג"
+msgstr ""
+
+msgid "ס\"מ"
+msgstr ""
+
+msgid "גרם"
+msgstr ""
+
+msgid "ליטר"
+msgstr ""
+
+msgid "מ\"ל"
+msgstr ""
+
+# Common actions
+msgid "שלח"
+msgstr ""
+
+msgid "בטל"
+msgstr ""
+
+msgid "אישור"
+msgstr ""
+
+msgid "המשך"
+msgstr ""
+
+msgid "הקודם"
+msgstr ""
+
+msgid "הבא"
+msgstr ""
+
+msgid "סיום"
+msgstr ""
+
+msgid "התחלה"
+msgstr ""
+
+# Accessibility
+msgid "דלג לתוכן הראשי"
+msgstr ""
+
+msgid "תפריט ניווט ראשי"
+msgstr ""
+
+msgid "פתח תפריט"
+msgstr ""
+
+msgid "סגור תפריט"
+msgstr ""
+
+msgid "חיפוש באתר"
+msgstr ""
+
+msgid "תוצאות חיפוש"
+msgstr ""
+
+# ARIA labels
+msgid "טוען תוכן"
+msgstr ""
+
+msgid "אזור תוכן ראשי"
+msgstr ""
+
+msgid "תפריט צד"
+msgstr ""
+
+msgid "כותרת עליונה"
+msgstr ""
+
+msgid "כותרת תחתונה"
+msgstr ""
+
+# Plugin specific strings that will be added by individual plugins
+msgid "כלי חישוב בייבי-האב"
+msgstr ""
+
+msgid "מעקב שבועות הריון"
+msgstr ""
+
+msgid "לוח אירועים"
+msgstr ""
+
+msgid "מדריך ספקים"
+msgstr ""
+
+msgid "ניהול שותפויות"
+msgstr ""
