@@ -1,0 +1,692 @@
+/*
+Baby-Hub RTL Stylesheet
+Hebrew Right-to-Left Layout Support
+*/
+
+/* RTL Base Overrides */
+body.rtl {
+    direction: rtl;
+    text-align: right;
+}
+
+/* Typography RTL */
+.rtl h1, .rtl h2, .rtl h3, .rtl h4, .rtl h5, .rtl h6 {
+    text-align: right;
+}
+
+.rtl p {
+    text-align: right;
+}
+
+/* Header RTL */
+.rtl .header-content {
+    flex-direction: row-reverse;
+}
+
+.rtl .site-logo {
+    margin-left: 0;
+    margin-right: auto;
+}
+
+.rtl .site-logo img {
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+/* Navigation RTL */
+.rtl .nav-menu {
+    flex-direction: row-reverse;
+}
+
+.rtl .nav-menu li {
+    margin: 0 0 0 1rem;
+}
+
+.rtl .nav-menu li:first-child {
+    margin-right: 0;
+}
+
+.rtl .nav-menu li:last-child {
+    margin-left: 0;
+}
+
+/* Mobile Navigation RTL */
+.rtl .mobile-menu-toggle {
+    left: 1rem;
+    right: auto;
+}
+
+.rtl .mobile-nav {
+    left: 0;
+    right: auto;
+}
+
+.rtl .mobile-nav-close {
+    left: 1rem;
+    right: auto;
+}
+
+/* Layout RTL */
+.rtl .row {
+    flex-direction: row-reverse;
+}
+
+.rtl .container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+/* Grid Layouts RTL */
+.rtl .tools-grid {
+    direction: rtl;
+}
+
+.rtl .features-grid {
+    direction: rtl;
+}
+
+.rtl .birth-clubs-grid {
+    direction: rtl;
+}
+
+.rtl .zodiac-grid {
+    direction: rtl;
+}
+
+/* Card Elements RTL */
+.rtl .card {
+    text-align: right;
+}
+
+.rtl .card-header {
+    text-align: right;
+}
+
+.rtl .card-body {
+    text-align: right;
+}
+
+.rtl .card-footer {
+    text-align: right;
+}
+
+/* Tool Cards RTL */
+.rtl .tool-card {
+    text-align: center; /* Keep centered for tools */
+}
+
+.rtl .tool-icon {
+    margin: 0 auto 1rem;
+}
+
+/* Forms RTL */
+.rtl .form-group {
+    text-align: right;
+}
+
+.rtl .form-label {
+    text-align: right;
+}
+
+.rtl .form-control {
+    text-align: right;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.rtl .form-control::placeholder {
+    text-align: right;
+}
+
+.rtl .form-error {
+    text-align: right;
+}
+
+.rtl .form-success {
+    text-align: right;
+}
+
+/* Checkbox and Radio RTL */
+.rtl input[type="checkbox"],
+.rtl input[type="radio"] {
+    margin-left: 0.5rem;
+    margin-right: 0;
+}
+
+.rtl .checkbox-group,
+.rtl .radio-group {
+    text-align: right;
+}
+
+.rtl .checkbox-group label,
+.rtl .radio-group label {
+    padding-left: 0;
+    padding-right: 1.5rem;
+}
+
+/* Birth Club Cards RTL */
+.rtl .birth-club-card {
+    text-align: center; /* Keep centered */
+}
+
+.rtl .birth-club-title {
+    text-align: center;
+}
+
+.rtl .birth-club-count {
+    text-align: center;
+}
+
+/* Zodiac Cards RTL */
+.rtl .zodiac-card {
+    text-align: center; /* Keep centered */
+}
+
+.rtl .zodiac-name {
+    text-align: center;
+}
+
+.rtl .zodiac-dates {
+    text-align: center;
+}
+
+/* Pregnancy Tracker RTL */
+.rtl .pregnancy-week-card {
+    text-align: center; /* Keep centered for main content */
+}
+
+.rtl .week-number {
+    text-align: center;
+}
+
+.rtl .week-title {
+    text-align: center;
+}
+
+.rtl .baby-info {
+    direction: rtl;
+}
+
+.rtl .baby-stat {
+    text-align: center;
+}
+
+.rtl .stat-value {
+    text-align: center;
+}
+
+.rtl .stat-label {
+    text-align: center;
+}
+
+/* Results Display RTL */
+.rtl .calculation-result {
+    text-align: right;
+}
+
+.rtl .result-item {
+    text-align: right;
+    padding: 0.5rem 0;
+}
+
+.rtl .result-card {
+    text-align: right;
+}
+
+.rtl .prediction-result {
+    text-align: center;
+}
+
+.rtl .ovulation-results {
+    text-align: right;
+}
+
+.rtl .due-date-results {
+    text-align: right;
+}
+
+.rtl .weight-results {
+    text-align: right;
+}
+
+.rtl .names-list {
+    text-align: right;
+}
+
+.rtl .name-suggestion {
+    text-align: right;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+    background: #f8f9fa;
+    border-radius: 5px;
+}
+
+.rtl .preferences-list {
+    text-align: right;
+    padding-right: 1.5rem;
+}
+
+.rtl .costs-breakdown {
+    text-align: right;
+}
+
+.rtl .cost-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #eee;
+}
+
+.rtl .cost-label {
+    text-align: right;
+}
+
+.rtl .cost-amount {
+    text-align: left; /* Keep numbers left-aligned */
+    font-weight: 600;
+}
+
+.rtl .totals-section {
+    text-align: right;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 2px solid #FF6B9D;
+}
+
+.rtl .total-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem 0;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.rtl .total-label {
+    text-align: right;
+}
+
+.rtl .total-amount {
+    text-align: left; /* Keep numbers left-aligned */
+    color: #FF6B9D;
+}
+
+.rtl .zodiac-result {
+    text-align: center;
+}
+
+.rtl .zodiac-main {
+    text-align: center;
+}
+
+.rtl .zodiac-traits {
+    text-align: right;
+    margin-top: 1rem;
+}
+
+.rtl .height-prediction {
+    text-align: center;
+}
+
+.rtl .prediction-main {
+    text-align: center;
+}
+
+.rtl .prediction-note {
+    text-align: right;
+    margin-top: 1rem;
+}
+
+/* Button Groups RTL */
+.rtl .btn-group {
+    flex-direction: row-reverse;
+}
+
+.rtl .btn-group .btn {
+    margin-left: 0.5rem;
+    margin-right: 0;
+}
+
+.rtl .btn-group .btn:first-child {
+    margin-left: 0;
+}
+
+/* Plan Actions RTL */
+.rtl .plan-actions {
+    text-align: center;
+    margin-top: 1.5rem;
+}
+
+.rtl .plan-actions .btn {
+    margin: 0 0.5rem;
+}
+
+/* Lists RTL */
+.rtl ul, .rtl ol {
+    padding-right: 1.5rem;
+    padding-left: 0;
+}
+
+.rtl li {
+    text-align: right;
+}
+
+/* Tables RTL */
+.rtl table {
+    direction: rtl;
+}
+
+.rtl th, .rtl td {
+    text-align: right;
+}
+
+.rtl th:first-child, .rtl td:first-child {
+    padding-right: 0;
+}
+
+.rtl th:last-child, .rtl td:last-child {
+    padding-left: 0;
+}
+
+/* Footer RTL */
+.rtl .footer-content {
+    direction: rtl;
+}
+
+.rtl .footer-section {
+    text-align: right;
+}
+
+.rtl .footer-section h4 {
+    text-align: right;
+}
+
+.rtl .footer-section ul {
+    text-align: right;
+}
+
+.rtl .footer-bottom {
+    text-align: center;
+}
+
+/* Breadcrumbs RTL */
+.rtl .breadcrumb {
+    flex-direction: row-reverse;
+}
+
+.rtl .breadcrumb-item + .breadcrumb-item::before {
+    content: "\\";
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+/* Pagination RTL */
+.rtl .pagination {
+    flex-direction: row-reverse;
+}
+
+.rtl .page-link {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+/* Alerts RTL */
+.rtl .alert {
+    text-align: right;
+}
+
+.rtl .alert-dismissible .close {
+    left: 0;
+    right: auto;
+    padding-left: 0.75rem;
+    padding-right: 1.25rem;
+}
+
+/* Progress Bars RTL */
+.rtl .progress {
+    flex-direction: row-reverse;
+}
+
+.rtl .progress-bar {
+    flex-direction: row-reverse;
+}
+
+/* Dropdown RTL */
+.rtl .dropdown-menu {
+    left: auto;
+    right: 0;
+    text-align: right;
+}
+
+.rtl .dropdown-item {
+    text-align: right;
+}
+
+/* Modal RTL */
+.rtl .modal-header {
+    text-align: right;
+}
+
+.rtl .modal-body {
+    text-align: right;
+}
+
+.rtl .modal-footer {
+    flex-direction: row-reverse;
+}
+
+.rtl .modal-footer .btn {
+    margin-left: 0.5rem;
+    margin-right: 0;
+}
+
+.rtl .modal-footer .btn:first-child {
+    margin-left: 0;
+}
+
+/* Accordion RTL */
+.rtl .accordion-header {
+    text-align: right;
+}
+
+.rtl .accordion-body {
+    text-align: right;
+}
+
+.rtl .accordion-button {
+    text-align: right;
+    padding-right: 1.25rem;
+    padding-left: 3rem;
+}
+
+.rtl .accordion-button::after {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+/* Tooltip RTL */
+.rtl .tooltip {
+    text-align: right;
+}
+
+/* Carousel RTL */
+.rtl .carousel-inner {
+    direction: rtl;
+}
+
+.rtl .carousel-control-prev {
+    left: auto;
+    right: 0;
+}
+
+.rtl .carousel-control-next {
+    right: auto;
+    left: 0;
+}
+
+.rtl .carousel-indicators {
+    flex-direction: row-reverse;
+}
+
+/* Calendar RTL */
+.rtl .calendar {
+    direction: rtl;
+}
+
+.rtl .calendar-header {
+    text-align: right;
+}
+
+.rtl .calendar-body {
+    direction: rtl;
+}
+
+.rtl .calendar-day {
+    text-align: center;
+}
+
+/* Directory Listing RTL */
+.rtl .directory-item {
+    text-align: right;
+}
+
+.rtl .directory-meta {
+    text-align: right;
+}
+
+.rtl .directory-contact {
+    text-align: right;
+}
+
+/* Course Cards RTL */
+.rtl .course-card {
+    text-align: right;
+}
+
+.rtl .course-meta {
+    text-align: right;
+}
+
+.rtl .course-price {
+    text-align: left; /* Keep prices left-aligned */
+}
+
+/* Community Features RTL */
+.rtl .forum-post {
+    text-align: right;
+}
+
+.rtl .forum-meta {
+    text-align: right;
+}
+
+.rtl .post-content {
+    text-align: right;
+}
+
+/* Marketplace RTL */
+.rtl .product-card {
+    text-align: right;
+}
+
+.rtl .product-price {
+    text-align: left; /* Keep prices left-aligned */
+}
+
+.rtl .product-meta {
+    text-align: right;
+}
+
+/* Search Forms RTL */
+.rtl .search-form {
+    text-align: right;
+}
+
+.rtl .search-input {
+    text-align: right;
+}
+
+.rtl .search-filters {
+    text-align: right;
+}
+
+/* Icons RTL */
+.rtl .icon-left {
+    margin-left: 0;
+    margin-right: 0.5rem;
+}
+
+.rtl .icon-right {
+    margin-right: 0;
+    margin-left: 0.5rem;
+}
+
+/* Responsive RTL Adjustments */
+@media (max-width: 768px) {
+    .rtl .mobile-nav {
+        left: 0;
+        right: 0;
+    }
+    
+    .rtl .mobile-nav-close {
+        left: 1rem;
+        right: auto;
+    }
+    
+    .rtl .mobile-menu-toggle {
+        left: 1rem;
+        right: auto;
+    }
+    
+    .rtl .footer-content {
+        text-align: center;
+    }
+    
+    .rtl .footer-section {
+        text-align: center;
+    }
+}
+
+@media (max-width: 480px) {
+    .rtl .container {
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+    }
+    
+    .rtl .cost-item {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .rtl .cost-amount {
+        text-align: right;
+        margin-top: 0.25rem;
+    }
+    
+    .rtl .total-item {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .rtl .total-amount {
+        text-align: right;
+        margin-top: 0.25rem;
+    }
+}
+
+/* Print RTL */
+@media print {
+    .rtl * {
+        direction: rtl;
+        text-align: right;
+    }
+    
+    .rtl .container {
+        padding: 0;
+    }
+    
+    .rtl h1, .rtl h2, .rtl h3, .rtl h4, .rtl h5, .rtl h6 {
+        text-align: right;
+    }
+}

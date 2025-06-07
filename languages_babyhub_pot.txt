@@ -1,0 +1,1513 @@
+# Baby-Hub WordPress Theme Translation Template
+# Copyright (C) 2025 Baby-Hub Team
+# This file is distributed under the same license as the Baby-Hub theme.
+msgid ""
+msgstr ""
+"Project-Id-Version: Baby-Hub 1.0.0\n"
+"Report-Msgid-Bugs-To: support@baby-hub.com\n"
+"POT-Creation-Date: 2025-06-07 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Theme Name of the theme
+msgid "Baby-Hub"
+msgstr ""
+
+#. Theme Description of the theme
+msgid "ערכת עיצוב עברית מקצועית לאתר הורות ותינוקות - Baby-Hub. תומכת ב-RTL, כלי חישוב, קהילה, קורסים ושוק מוצרים."
+msgstr ""
+
+#. Author of the theme
+msgid "Baby-Hub Team"
+msgstr ""
+
+#: functions.php:25
+msgid "התפריט הראשי"
+msgstr ""
+
+#: functions.php:26
+msgid "תפריט תחתון"
+msgstr ""
+
+#: functions.php:48
+msgid "סרגל צד ראשי"
+msgstr ""
+
+#: functions.php:50
+msgid "סרגל הצד הראשי של האתר"
+msgstr ""
+
+#: functions.php:57
+msgid "תחתית האתר"
+msgstr ""
+
+#: functions.php:59
+msgid "אזור הווידג'טים בתחתית האתר"
+msgstr ""
+
+#: functions.php:68
+msgid "שבועות הריון"
+msgstr ""
+
+#: functions.php:69
+msgid "שבוע הריון"
+msgstr ""
+
+#: functions.php:70
+msgid "הוסף שבוע הריון חדש"
+msgstr ""
+
+#: functions.php:71
+msgid "ערוך שבוע הריון"
+msgstr ""
+
+#: functions.php:79
+msgid "כלים"
+msgstr ""
+
+#: functions.php:80
+msgid "כלי"
+msgstr ""
+
+#: functions.php:81
+msgid "הוסף כלי חדש"
+msgstr ""
+
+#: functions.php:82
+msgid "ערוך כלי"
+msgstr ""
+
+#: functions.php:90
+msgid "רשימות ספקים"
+msgstr ""
+
+#: functions.php:91
+msgid "רשימת ספק"
+msgstr ""
+
+#: functions.php:92
+msgid "הוסף ספק חדש"
+msgstr ""
+
+#: functions.php:93
+msgid "ערוך ספק"
+msgstr ""
+
+#: header.php:15
+msgid "הבית שלך לחוויית הורות"
+msgstr ""
+
+#: header.php:35
+msgid "דלג לתוכן הראשי"
+msgstr ""
+
+#: header.php:50
+msgid "Baby-Hub - הבית שלך לחוויית הורות"
+msgstr ""
+
+#: header.php:85
+msgid "תפריט ניווט"
+msgstr ""
+
+#: header.php:95
+msgid "פתח תפריט"
+msgstr ""
+
+#: index.php:15
+msgid "ברוכות הבאות לבייבי-האב"
+msgstr ""
+
+#: index.php:16
+msgid "המקום שלך לכל מה שקשור להורות ותינוקות"
+msgstr ""
+
+#: index.php:23
+msgid "התחילי את המסע"
+msgstr ""
+
+#: index.php:27
+msgid "גלי את הכלים שלנו"
+msgstr ""
+
+#: index.php:40
+msgid "כלי חישוב מקצועיים"
+msgstr ""
+
+#: index.php:41
+msgid "כלים מתקדמים לחישוב ביוץ, תאריך לידה ועוד"
+msgstr ""
+
+#: index.php:53
+msgid "חישוב ביוץ"
+msgstr ""
+
+#: index.php:54
+msgid "חשבי את ימי הפוריות שלך"
+msgstr ""
+
+#: index.php:61
+msgid "חישוב תאריך לידה"
+msgstr ""
+
+#: index.php:62
+msgid "מתי התינוק שלך אמור להגיע?"
+msgstr ""
+
+#: index.php:69
+msgid "ניחוש מין תינוק"
+msgstr ""
+
+#: index.php:70
+msgid "תחזית מין התינוק לפי השיטה הסינית"
+msgstr ""
+
+#: index.php:77
+msgid "מאגר שמות תינוקות"
+msgstr ""
+
+#: index.php:78
+msgid "מצאי את השם המושלם לתינוק שלך"
+msgstr ""
+
+#: index.php:85
+msgid "מעקב עלייה במשקל"
+msgstr ""
+
+#: index.php:86
+msgid "עקבי אחרי עלייה במשקל בהריון"
+msgstr ""
+
+#: index.php:93
+msgid "תוכנית לידה"
+msgstr ""
+
+#: index.php:94
+msgid "צרי תוכנית לידה מותאמת אישית"
+msgstr ""
+
+#: index.php:105
+msgid "צפה בכל הכלים"
+msgstr ""
+
+#: index.php:115
+msgid "קהילת אמהות תומכת"
+msgstr ""
+
+#: index.php:116
+msgid "הצטרפי לאלפי אמהות ששותפות חוויות ותומכות זו בזו"
+msgstr ""
+
+#: index.php:123
+msgid "קבוצות לידה לפי חודש"
+msgstr ""
+
+#: index.php:128
+msgid "יולדות ינואר 2025"
+msgstr ""
+
+#: index.php:129 index.php:135 index.php:141 index.php:147 index.php:153
+#: index.php:159
+msgid "%d חברות"
+msgstr ""
+
+#: index.php:134
+msgid "יולדות פברואר 2025"
+msgstr ""
+
+#: index.php:140
+msgid "יולדות מרץ 2025"
+msgstr ""
+
+#: index.php:146
+msgid "יולדות אפריל 2025"
+msgstr ""
+
+#: index.php:152
+msgid "יולדות מאי 2025"
+msgstr ""
+
+#: index.php:158
+msgid "יולדות יוני 2025"
+msgstr ""
+
+#: index.php:168
+msgid "הצטרפי לקהילה"
+msgstr ""
+
+#: index.php:178
+msgid "שבוע הריון השבוע"
+msgstr ""
+
+#: index.php:179
+msgid "מידע שבועי על התפתחות התינוק שלך"
+msgstr ""
+
+#: index.php:189
+msgid "שבוע 20: נקודת המפנה"
+msgstr ""
+
+#: index.php:191
+msgid "השבוע התינוק שלך בגודל של בננה! איברים מתפתחים במהירות."
+msgstr ""
+
+#: index.php:195
+msgid "גודל התינוק:"
+msgstr ""
+
+#: index.php:195
+msgid "כ-25 ס\"מ"
+msgstr ""
+
+#: index.php:198
+msgid "משקל משוער:"
+msgstr ""
+
+#: index.php:198
+msgid "כ-350 גרם"
+msgstr ""
+
+#: index.php:203
+msgid "קרא עוד על השבוע"
+msgstr ""
+
+#: index.php:213
+msgid "קורסי הורות מקצועיים"
+msgstr ""
+
+#: index.php:214
+msgid "למדי מהמומחים הטובים ביותר"
+msgstr ""
+
+#: index.php:221
+msgid "הכנה ללידה טבעית"
+msgstr ""
+
+#: index.php:222
+msgid "ד\"ר רחל לוי • 8 שיעורים"
+msgstr ""
+
+#: index.php:227
+msgid "הנקה מוצלחת"
+msgstr ""
+
+#: index.php:228
+msgid "אורלי כהן • 6 שיעורים"
+msgstr ""
+
+#: index.php:233
+msgid "טיפוח תינוק"
+msgstr ""
+
+#: index.php:234
+msgid "מיכל דוד • 5 שיעורים"
+msgstr ""
+
+#: index.php:241
+msgid "צפה בכל הקורסים"
+msgstr ""
+
+#: footer.php:15
+msgid "על בייבי-האב"
+msgstr ""
+
+#: footer.php:16
+msgid "הצוות שלנו"
+msgstr ""
+
+#: footer.php:17
+msgid "צור קשר"
+msgstr ""
+
+#: footer.php:18
+msgid "מדיניות פרטיות"
+msgstr ""
+
+#: footer.php:19
+msgid "תנאי שימוש"
+msgstr ""
+
+#: footer.php:24
+msgid "כלים"
+msgstr ""
+
+#: footer.php:25
+msgid "חישוב ביוץ"
+msgstr ""
+
+#: footer.php:26
+msgid "חישוב תאריך לידה"
+msgstr ""
+
+#: footer.php:27
+msgid "מעקב הריון"
+msgstr ""
+
+#: footer.php:28
+msgid "מאגר שמות"
+msgstr ""
+
+#: footer.php:33
+msgid "קהילה"
+msgstr ""
+
+#: footer.php:34
+msgid "קבוצות לידה"
+msgstr ""
+
+#: footer.php:35
+msgid "פורומים"
+msgstr ""
+
+#: footer.php:36
+msgid "מומחים"
+msgstr ""
+
+#: footer.php:37
+msgid "אירועים"
+msgstr ""
+
+#: footer.php:42
+msgid "תמיכה"
+msgstr ""
+
+#: footer.php:43
+msgid "מרכז עזרה"
+msgstr ""
+
+#: footer.php:44
+msgid "שאלות נפוצות"
+msgstr ""
+
+#: footer.php:45
+msgid "צ'אט חי"
+msgstr ""
+
+#: footer.php:46
+msgid "דרג אותנו"
+msgstr ""
+
+#: footer.php:55
+msgid "עקבו אחרינו"
+msgstr ""
+
+#: footer.php:71
+msgid "© 2025 בייבי-האב. כל הזכויות שמורות."
+msgstr ""
+
+#: footer.php:74
+msgid "עם אהבה למען ההורות הישראלית 💕"
+msgstr ""
+
+#: single.php:25
+msgid "נתיב ניווט"
+msgstr ""
+
+#: single.php:28
+msgid "בית"
+msgstr ""
+
+#: single.php:35
+msgid "תגיות:"
+msgstr ""
+
+#: single.php:42
+msgid "שתף את הפוסט:"
+msgstr ""
+
+#: single.php:75
+msgid "צפה בכל הפוסטים של"
+msgstr ""
+
+#: single.php:89
+msgid "פוסטים קשורים"
+msgstr ""
+
+#: 404.php:16
+msgid "אופס! העמוד לא נמצא"
+msgstr ""
+
+#: 404.php:17
+msgid "מצטערים, העמוד שחיפשת לא קיים או הועבר למקום אחר."
+msgstr ""
+
+#: 404.php:22
+msgid "התינוק שלנו חיפש בכל מקום ולא מצא את העמוד..."
+msgstr ""
+
+#: 404.php:27
+msgid "בואו ננסה לחפש משהו אחר"
+msgstr ""
+
+#: 404.php:34
+msgid "תוכן פופולרי"
+msgstr ""
+
+#: 404.php:38
+msgid "פוסטים פופולריים"
+msgstr ""
+
+#: 404.php:66
+msgid "כלים פופולריים"
+msgstr ""
+
+#: 404.php:86
+msgid "קטגוריות"
+msgstr ""
+
+#: 404.php:104
+msgid "זקוקים לעזרה?"
+msgstr ""
+
+#: 404.php:105
+msgid "אם אתם לא מוצאים מה שחיפשתם, נשמח לעזור:"
+msgstr ""
+
+#: 404.php:109
+msgid "צרו קשר"
+msgstr ""
+
+#: 404.php:114
+msgid "קהילת בייבי-האב"
+msgstr ""
+
+#: 404.php:119
+msgid "שאלות נפוצות"
+msgstr ""
+
+#: 404.php:129
+msgid "חזור לעמוד הבית"
+msgstr ""
+
+#: 404.php:133
+msgid "חזור לעמוד הקודם"
+msgstr ""
+
+#: search.php:18
+msgid "תוצאות חיפוש עבור:"
+msgstr ""
+
+#: search.php:22
+msgid "לא נמצאו תוצאות"
+msgstr ""
+
+#: search.php:33
+msgid "%s תוצאה נמצאה"
+msgid_plural "%s תוצאות נמצאו"
+msgstr[0] ""
+msgstr[1] ""
+
+#: search.php:41
+msgid "חפש שוב"
+msgstr ""
+
+#: template-parts/tools/ovulation-calculator.php:15
+msgid "חישוב ביוץ ותקופת פוריות"
+msgstr ""
+
+#: template-parts/tools/ovulation-calculator.php:17
+msgid "הזיני את הפרטים הבאים כדי לחשב את ימי הפוריות שלך ותאריך הביוץ המשוער"
+msgstr ""
+
+#: template-parts/tools/ovulation-calculator.php:24
+msgid "תאריך הווסת האחרונה"
+msgstr ""
+
+#: template-parts/tools/ovulation-calculator.php:37
+msgid "היום הראשון של הווסת האחרונה שלך"
+msgstr ""
+
+#: template-parts/tools/ovulation-calculator.php:43
+msgid "אורך המחזור החודשי"
+msgstr ""
+
+#: template-parts/tools/ovulation-calculator.php:48
+msgid "בחרי אורך מחזור"
+msgstr ""
+
+#: template-parts/tools/ovulation-calculator.php:52
+msgid "%d ימים"
+msgstr ""
+
+#: template-parts/tools/ovulation-calculator.php:57
+msgid "אורך מחזור אחר"
+msgstr ""
+
+#: template-parts/tools/ovulation-calculator.php:60
+msgid "המחזור הממוצע הוא 28 ימים, אך יכול להיות בין 21-35 ימים"
+msgstr ""
+
+#: template-parts/tools/ovulation-calculator.php:72
+msgid "חשב ביוץ ופוריות"
+msgstr ""
+
+#: template-parts/tools/ovulation-calculator.php:76
+msgid "איפוס"
+msgstr ""
+
+#: template-parts/tools/due-date-calculator.php:15
+msgid "חישוב תאריך לידה משוער"
+msgstr ""
+
+#: template-parts/tools/due-date-calculator.php:17
+msgid "הזיני את הפרטים הבאים כדי לחשב את תאריך הלידה המשוער ולדעת באיזה שבוע הריון את נמצאת"
+msgstr ""
+
+#: template-parts/tools/due-date-calculator.php:25
+msgid "לפי תאריך הווסת האחרונה"
+msgstr ""
+
+#: template-parts/tools/due-date-calculator.php:30
+msgid "לפי תאריך ההריון"
+msgstr ""
+
+#: template-parts/tools/due-date-calculator.php:35
+msgid "לפי אולטרסאונד"
+msgstr ""
+
+#: template-parts/tools/due-date-calculator.php:95
+msgid "חשב תאריך לידה"
+msgstr ""
+
+#: page-tools.php:15
+msgid "כלים מקצועיים"
+msgstr ""
+
+#: page-tools.php:16
+msgid "כלי חישוב מתקדמים להורות ותינוקות"
+msgstr ""
+
+#: page-community.php:23
+msgid "קהילת בייבי-האב"
+msgstr ""
+
+#: page-community.php:25
+msgid "הצטרפי לאלפי אמהות ואבות שמשתפים חוויות, מקבלים תמיכה ולומדים יחד על המסע המופלא של הורות"
+msgstr ""
+
+#: page-community.php:30
+msgid "חברים פעילים"
+msgstr ""
+
+#: page-community.php:35
+msgid "דיונים פעילים"
+msgstr ""
+
+#: page-community.php:40
+msgid "תגובות השבוע"
+msgstr ""
+
+#: page-community.php:46
+msgid "הצטרפי לקהילה"
+msgstr ""
+
+#: page-community.php:51
+msgid "התחברי"
+msgstr ""
+
+#: page-marketplace.php:21
+msgid "השוק של בייבי-האב"
+msgstr ""
+
+#: page-marketplace.php:23
+msgid "מצאי את כל מה שאת צריכה לתינוק ולהריון ממוכרים מהימנים בקהילה שלנו"
+msgstr ""
+
+#: page-marketplace.php:28
+msgid "מוצרים פעילים"
+msgstr ""
+
+#: page-marketplace.php:33
+msgid "מוכרים"
+msgstr ""
+
+#: page-marketplace.php:38
+msgid "שביעות רצון"
+msgstr ""
+
+#: page-courses.php:21
+msgid "קורסי הורות מקצועיים"
+msgstr ""
+
+#: page-courses.php:23
+msgid "למדי מהמומחים הטובים ביותר והתכונני למסע ההורות עם קורסים מקצועיים ומעשיים"
+msgstr ""
+
+#: page-courses.php:28
+msgid "קורסים פעילים"
+msgstr ""
+
+#: page-courses.php:33
+msgid "תלמידות"
+msgstr ""
+
+#: page-courses.php:38
+msgid "דירוג ממוצע"
+msgstr ""
+
+#: page-courses.php:44
+msgid "התחילי ללמוד"
+msgstr ""
+
+#: page-courses.php:49
+msgid "עיוני בקורסים"
+msgstr ""
+
+#: page-directory.php:21
+msgid "מדריך ספקי שירותים"
+msgstr ""
+
+#: page-directory.php:23
+msgid "מצאי את הספקים הטובים ביותר לכל צרכי ההורות - מרופאים ועד מטפלים, הכל במקום אחד"
+msgstr ""
+
+#: page-directory.php:30
+msgid "חפש ספק שירות..."
+msgstr ""
+
+#: page-directory.php:38
+msgid "כל הקטגוריות"
+msgstr ""
+
+#: page-directory.php:39
+msgid "רפואה"
+msgstr ""
+
+#: page-directory.php:40
+msgid "טיפול"
+msgstr ""
+
+#: page-directory.php:41
+msgid "חינוך"
+msgstr ""
+
+#: page-directory.php:42
+msgid "תזונה"
+msgstr ""
+
+#: page-directory.php:43
+msgid "כושר"
+msgstr ""
+
+#: page-directory.php:44
+msgid "טיפוח"
+msgstr ""
+
+#: page-directory.php:48
+msgid "כל האזורים"
+msgstr ""
+
+#: page-directory.php:49
+msgid "מרכז"
+msgstr ""
+
+#: page-directory.php:50
+msgid "צפון"
+msgstr ""
+
+#: page-directory.php:51
+msgid "דרום"
+msgstr ""
+
+#: page-directory.php:52
+msgid "ירושלים"
+msgstr ""
+
+#: page-directory.php:53
+msgid "אונליין"
+msgstr ""
+
+#: page-directory.php:89
+msgid "ספקי שירות"
+msgstr ""
+
+#: page-directory.php:94
+msgid "קטגוריות"
+msgstr ""
+
+#: page-directory.php:99
+msgid "דירוג ממוצע"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:15
+msgid "ניחוש מין התינוק לפי השיטה הסינית"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:17
+msgid "השיטה הסינית העתיקה לניחוש מין התינוק מבוססת על גיל האמא ועל החודש בו נוצר ההריון"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:23
+msgid "הטבלה הסינית העתיקה"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:24
+msgid "הטבלה שמשמשת אותנו כבר מאות שנים"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:45
+msgid "גיל האמא בזמן ההריון"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:58
+msgid "הגיל שלך בזמן שנוצר ההריון (לא הגיל הנוכחי)"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:64
+msgid "חודש ההריון"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:68
+msgid "בחרי חודש"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:69
+msgid "ינואר"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:70
+msgid "פברואר"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:71
+msgid "מרץ"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:72
+msgid "אפריל"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:73
+msgid "מאי"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:74
+msgid "יוני"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:75
+msgid "יולי"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:76
+msgid "אוגוסט"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:77
+msgid "ספטמבר"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:78
+msgid "אוקטובר"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:79
+msgid "נובמבר"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:80
+msgid "דצמבר"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:83
+msgid "החודש בו נוצר ההריון (בדרך כלל חודש הביוץ)"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:93
+msgid "השתמש בחישוב לוחי (מדויק יותר)"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:96
+msgid "החישוב הלוחי מבוסס על לוח השנה הסיני העתיק ועשוי להיות מדויק יותר"
+msgstr ""
+
+#: template-parts/tools/gender-predictor.php:104
+msgid "נחש את מין התינוק"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:15
+msgid "תוכנית לידה מותאמת אישית"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:17
+msgid "צרי תוכנית לידה מפורטת שתעזור לך להעביר את רצונותיך לצוות הרפואי"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:26
+msgid "פרטים אישיים"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:31
+msgid "שם האמא"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:35
+msgid "שם הבן/בת הזוג"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:41
+msgid "תאריך לידה משוער"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:45
+msgid "מקום הלידה"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:46
+msgid "שם בית החולים/בית הלידה"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:55
+msgid "העדפות ציפים"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:60
+msgid "סביבת הלידה"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:64
+msgid "תאורה עמומה"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:69
+msgid "מוזיקה רגועה"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:74
+msgid "ארומה טרפיה"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:79
+msgid "חדר פרטי"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:85
+msgid "ניהול כאב"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:89
+msgid "הקלת כאב טבעית"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:94
+msgid "חסר חושים אפידורלי"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:99
+msgid "גז וחמצן"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:104
+msgid "לידה במים"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:110
+msgid "עמדות לידה"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:114
+msgid "חופש תנועה"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:119
+msgid "כדור לידה"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:124
+msgid "לידה בעמידה"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:129
+msgid "לידה בכריעה"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:135
+msgid "נוכחות בלידה"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:139
+msgid "בן/בת זוג נוכח/ת"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:144
+msgid "דולה נוכחת"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:149
+msgid "בני משפחה נוכחים"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:154
+msgid "צילום הלידה"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:165
+msgid "העדפות רפואיות"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:170
+msgid "התערבויות רפואיות"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:174
+msgid "התערבות מינימלית"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:179
+msgid "ללא אפיזיוטומיה"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:184
+msgid "דחיית חיתוך הטבור"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:189
+msgid "מגע עור בעור מיידי"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:195
+msgid "ניטור"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:199
+msgid "ניטור לסירוגין"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:204
+msgid "ניטור אלחוטי"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:209
+msgid "חופש תנועה בזמן ניטור"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:220
+msgid "העדפות למצבי חירום"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:225
+msgid "אם יידרש ניתוח קיסרי"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:229
+msgid "בן/בת הזוג נוכח/ת בחדר הניתוח"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:234
+msgid "מסך שקוף לראיית התינוק"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:239
+msgid "מגע מיידי עם התינוק אם אפשר"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:249
+msgid "אחרי הלידה"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:254
+msgid "הנקה וטיפול בתינוק"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:258
+msgid "הנקה מיידית"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:263
+msgid "ללא תרכובת מלאכותית"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:268
+msgid "התינוק נשאר בחדר"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:273
+msgid "דחיית פעולות רוטיניות"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:279
+msgid "בדיקות ותהליכים"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:283
+msgid "ויטמין K"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:288
+msgid "משחה לעיניים"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:293
+msgid "רחצה ראשונה בנוכחותי"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:298
+msgid "בדיקות גנטיות"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:308
+msgid "בקשות נוספות"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:313
+msgid "בקשות או הערות נוספות"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:321
+msgid "כאן תוכלי להוסיף כל בקשה או הערה נוספת שחשובה לך..."
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:324
+msgid "למשל: העדפות תזונתיות, רגישויות, חשש מתרופות מסוימות, מסורות דתיות או תרבותיות"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:332
+msgid "צרי תוכנית לידה"
+msgstr ""
+
+#: template-parts/tools/birth-plan-worksheet.php:336
+msgid "איפוס הטופס"
+msgstr ""
+
+#: sidebar.php:24
+msgid "חיפוש באתר"
+msgstr ""
+
+#: sidebar.php:32
+msgid "כלים פופולריים"
+msgstr ""
+
+#: sidebar.php:85
+msgid "צפה בכל הכלים"
+msgstr ""
+
+#: sidebar.php:93
+msgid "פוסטים אחרונים"
+msgstr ""
+
+#: sidebar.php:130
+msgid "קטגוריות"
+msgstr ""
+
+#: sidebar.php:156
+msgid "שבוע הריון היום"
+msgstr ""
+
+#: sidebar.php:165
+msgid "שבוע"
+msgstr ""
+
+#: sidebar.php:178
+msgid "גודל התינוק:"
+msgstr ""
+
+#: sidebar.php:185
+msgid "קרא עוד"
+msgstr ""
+
+#: sidebar.php:194
+msgid "הצטרפי לקהילה"
+msgstr ""
+
+#: sidebar.php:197
+msgid "הצטרפי לאלפי אמהות ואבות שמשתפים חוויות ותומכים זה בזה"
+msgstr ""
+
+#: sidebar.php:202
+msgid "חברים"
+msgstr ""
+
+#: sidebar.php:208
+msgid "דיונים פעילים"
+msgstr ""
+
+#: sidebar.php:213
+msgid "הצטרף עכשיו"
+msgstr ""
+
+#: sidebar.php:221
+msgid "עדכונים שבועיים"
+msgstr ""
+
+#: sidebar.php:224
+msgid "קבלי עדכונים שבועיים עם טיפים, מידע רפואי ותוכן מותאם לשלב ההריון שלך"
+msgstr ""
+
+#: sidebar.php:232
+msgid "כתובת האימייל שלך"
+msgstr ""
+
+#: sidebar.php:236
+msgid "הרשמה"
+msgstr ""
+
+#: sidebar.php:240
+msgid "ללא ספאם, ניתן לבטל בכל עת"
+msgstr ""
+
+#: sidebar.php:247
+msgid "עקבו אחרינו"
+msgstr ""
+
+#: sidebar.php:252
+msgid "פייסבוק"
+msgstr ""
+
+#: sidebar.php:257
+msgid "אינסטגרם"
+msgstr ""
+
+#: sidebar.php:262
+msgid "יוטיוב"
+msgstr ""
+
+#: sidebar.php:267
+msgid "טלגרם"
+msgstr ""
+
+#: sidebar.php:275
+msgid "מספרי חירום"
+msgstr ""
+
+#: sidebar.php:280
+msgid "מד\"א:"
+msgstr ""
+
+#: sidebar.php:285
+msgid "משטרה:"
+msgstr ""
+
+#: sidebar.php:290
+msgid "כבאות:"
+msgstr ""
+
+#: sidebar.php:295
+msgid "מרכז רעילות:"
+msgstr ""
+
+#: sidebar.php:301
+msgid "במקרה חירום פנו מיד לחדר מיון או התקשרו למד\"א"
+msgstr ""
+
+#: searchform.php:13
+msgid "חפש:"
+msgstr ""
+
+#: searchform.php:21
+msgid "חפש באתר..."
+msgstr ""
+
+#: searchform.php:25
+msgid "חפש באתר Baby-Hub"
+msgstr ""
+
+#: searchform.php:27
+msgid "שלח חיפוש"
+msgstr ""
+
+#: searchform.php:30
+msgid "חפש"
+msgstr ""
+
+#: comments.php:21
+msgid "היה הראשון להגיב"
+msgstr ""
+
+#: comments.php:23
+msgid "תגובה אחת"
+msgstr ""
+
+#: comments.php:25
+msgid "%s תגובה"
+msgid_plural "%s תגובות"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:31
+msgid "על \"%s\""
+msgstr ""
+
+#: comments.php:45 comments.php:55
+msgid "← תגובות קודמות"
+msgstr ""
+
+#: comments.php:49 comments.php:59
+msgid "תגובות חדשות יותר →"
+msgstr ""
+
+#: comments.php:72
+msgid "הוסף תגובה"
+msgstr ""
+
+#: comments.php:74
+msgid "השב ל%s"
+msgstr ""
+
+#: comments.php:76
+msgid "ביטול"
+msgstr ""
+
+#: comments.php:81
+msgid "עליך <a href=\"%s\">להתחבר</a> כדי להגיב."
+msgstr ""
+
+#: comments.php:91
+msgid "תגובה"
+msgstr ""
+
+#: comments.php:92
+msgid "שדה חובה"
+msgstr ""
+
+#: comments.php:100
+msgid "כתוב את התגובה שלך כאן..."
+msgstr ""
+
+#: comments.php:104
+msgid "נשמח לשמוע את דעתך! אנא כתוב תגובה מכבדת ורלוונטית."
+msgstr ""
+
+#: comments.php:111
+msgid "שם"
+msgstr ""
+
+#: comments.php:123
+msgid "השם שלך"
+msgstr ""
+
+#: comments.php:130
+msgid "אימייל"
+msgstr ""
+
+#: comments.php:142
+msgid "כתובת האימייל שלך"
+msgstr ""
+
+#: comments.php:146
+msgid "כתובת האימייל שלך לא תפורסם"
+msgstr ""
+
+#: comments.php:153
+msgid "אתר (אופציונלי)"
+msgstr ""
+
+#: comments.php:163
+msgid "https://example.com"
+msgstr ""
+
+#: comments.php:169
+msgid "מחובר בתור <a href=\"%1$s\" aria-label=\"%2$s\">%3$s</a>."
+msgstr ""
+
+#: comments.php:175
+msgid "ערוך את הפרופיל שלך, %s"
+msgstr ""
+
+#: comments.php:180
+msgid "התנתק?"
+msgstr ""
+
+#: comments.php:189
+msgid "שמור את השם, האימייל והאתר שלי בדפדפן זה עבור התגובה הבאה"
+msgstr ""
+
+#: comments.php:196
+msgid "כללי תגובות"
+msgstr ""
+
+#: comments.php:200
+msgid "כתבו תגובות מכבדות ורלוונטיות לנושא"
+msgstr ""
+
+#: comments.php:201
+msgid "הימנעו מלשון הרע, קללות או תוכן פוגעני"
+msgstr ""
+
+#: comments.php:202
+msgid "אל תשתפו מידע אישי כמו מספרי טלפון או כתובות"
+msgstr ""
+
+#: comments.php:203
+msgid "תגובות בספאם או פרסומות יימחקו"
+msgstr ""
+
+#: comments.php:204
+msgid "אנחנו שומרים את הזכות למחוק תגובות שלא מתאימות"
+msgstr ""
+
+#: comments.php:213
+msgid "פרסם תגובה"
+msgstr ""
+
+#: comments.php:221
+msgid "שדות החובה מסומנים ב-*"
+msgstr ""
+
+#: comments.php:229
+msgid "ניתן להשתמש בתגי HTML אלה: %s"
+msgstr ""
+
+#: comments.php:238
+msgid "התגובות סגורות, אך ניתן לשלוח trackbacks ו-pingbacks."
+msgstr ""
+
+#: comments.php:245
+msgid "התגובות סגורות."
+msgstr ""
+
+#: comments.php:276
+msgid "כותב הפוסט"
+msgstr ""
+
+#: comments.php:283
+msgid "בשעה"
+msgstr ""
+
+#: comments.php:286
+msgid "ערוך"
+msgstr ""
+
+#: comments.php:297
+msgid "השב"
+msgstr ""
+
+#: comments.php:307
+msgid "התגובה שלך ממתינה לאישור המנהל."
+msgstr ""
+
+#: single-babyhub_tool.php:25
+msgid "נתיב ניווט"
+msgstr ""
+
+#: single-babyhub_tool.php:28
+msgid "בית"
+msgstr ""
+
+#: single-babyhub_tool.php:31
+msgid "כלים"
+msgstr ""
+
+#: single-babyhub_tool.php:158
+msgid "הכלי עזר לך?"
+msgstr ""
+
+#: single-babyhub_tool.php:162
+msgid "כן, עזר לי"
+msgstr ""
+
+#: single-babyhub_tool.php:167
+msgid "לא עזר לי"
+msgstr ""
+
+#: single-babyhub_tool.php:178
+msgid "כלים נוספים שעשויים לעניין אותך"
+msgstr ""
+
+#: single-babyhub_tool.php:196
+msgid "השתמש בכלי"
+msgstr ""
+
+#: single-pregnancy_week.php:46
+msgid "ניווט בין שבועות הריון"
+msgstr ""
+
+#: single-pregnancy_week.php:67
+msgid "שבוע קודם"
+msgstr ""
+
+#: single-pregnancy_week.php:68
+msgid "שבוע %d"
+msgstr ""
+
+#: single-pregnancy_week.php:75
+msgid "שבוע נוכחי"
+msgstr ""
+
+#: single-pregnancy_week.php:80
+msgid "שבוע הבא"
+msgstr ""
+
+#: single-pregnancy_week.php:92
+msgid "%d מתוך 40 שבועות"
+msgstr ""
+
+#: single-pregnancy_week.php:106
+msgid "שבוע"
+msgstr ""
+
+#: single-pregnancy_week.php:125
+msgid "טרימסטר"
+msgstr ""
+
+#: single-pregnancy_week.php:136
+msgid "גודל התינוק"
+msgstr ""
+
+#: single-pregnancy_week.php:146
+msgid "משקל משוער"
+msgstr ""
+
+#: single-pregnancy_week.php:155
+msgid "ימים עד הלידה"
+msgstr ""
+
+#: single-pregnancy_week.php:166
+msgid "התפתחות התינוק"
+msgstr ""
+
+#: single-pregnancy_week.php:177
+msgid "תסמינים נפוצים השבוע"
+msgstr ""
+
+#: single-pregnancy_week.php:189
+msgid "טיפים לשבוע זה"
+msgstr ""
+
+#: single-pregnancy_week.php:201
+msgid "בדיקות רפואיות מומלצות"
+msgstr ""
+
+#: single-pregnancy_week.php:213
+msgid "תזונה והמלצות"
+msgstr ""
+
+#: single-pregnancy_week.php:225
+msgid "פעילות גופנית"
+msgstr ""
+
+#: single-pregnancy_week.php:237
+msgid "רשימת משימות לשבוע זה"
+msgstr ""
+
+#: single-pregnancy_week.php:265
+msgid "כלים רלוונטיים לשבוע זה"
+msgstr ""
+
+#: single-pregnancy_week.php:296
+msgid "שתפי את השבוע:"
+msgstr ""
+
+#: single-pregnancy_week.php:314
+msgid "מעקב השבועות שלי"
+msgstr ""
+
+#: single-pregnancy_week.php:349
+msgid "גישה מהירה"
+msgstr ""
+
+#: single-pregnancy_week.php:353
+msgid "כל השבועות"
+msgstr ""
+
+#: single-pregnancy_week.php:358
+msgid "כלי חישוב"
+msgstr ""
+
+#: single-pregnancy_week.php:363
+msgid "קהילה"
+msgstr ""
